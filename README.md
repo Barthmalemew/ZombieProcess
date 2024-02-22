@@ -1,4 +1,4 @@
-# ZombieProcess
+# Zombie
 Creates a zombie process on the process table.
 
 ## Installation
