@@ -10,5 +10,5 @@ git@github.com:Barthmalemew/ZombieProcess.git
 ## Usage
 ### run in terminal
 ```
-./zombieprocess
+./zombie
 ```
